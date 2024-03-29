@@ -1,4 +1,4 @@
-# NSK - AUTOMATIZACION DE PROCESOS DE NEGOCIO AUPN
+# Automatización de Procesos de Negocio AUPN - Proceso de Calidad de la Información para la empresa NSK mediante la construcción de una aplicación BPM
 
 ## Resumen
 
