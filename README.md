@@ -1,8 +1,8 @@
 # Automatización de Procesos de Negocio AUPN - Proceso de Calidad de la Información para la empresa NSK mediante la construcción de una aplicación BPM
 
-## Resumen
-
 Proyecto destacado de la asignatura de Automatización de Procesos de Negocio (AUPN).
+
+## Resumen
 
 Solución de un problema real para la empresa NSK.
 
